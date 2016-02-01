@@ -1,0 +1,18 @@
+{
+  "name": "react-native-ble-android",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/michalkow/react-native-ble-android"
+  },
+  "version": "0.1.0",
+  "description": "A BLE component for React Native for Android.",
+  "author": "Michal Kowalkowski <kowalkowski.michal@gmail.com> (http://michalkowalkowski.com)",
+  "nativePackage": true,
+  "keywords": [
+    "react-native",
+    "react",
+    "native",
+    "ble",
+    "bluetooth"
+  ]
+}
